@@ -1,7 +1,5 @@
 Computer and Information Technology graduate from Politehnica University of Bucharest, previously interning as a Software Development Intern (Data Engineering & GIS) at ICI Bucharest. I build across full-stack systems, distributed and networked systems, and mobile apps — with some detours into GPU programming and embedded hardware.
 
-Currently open to software engineering opportunities — happy to talk full-stack, mobile, or systems roles.
-
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-2ea44f?style=flat-square)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudimohammadmehdi50@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/M-Mehdi-M)
