@@ -1,4 +1,10 @@
-Computer and Information Technology graduate from Politehnica University of Bucharest, previously interning as a Software Development Intern (Data Engineering & GIS) at ICI Bucharest. I build across full-stack systems, distributed and networked systems, and mobile apps — with some detours into GPU programming and embedded hardware. I care about repos that are easy to pick up — clear READMEs, sensible structure, code that explains itself.
+Computer and Information Technology graduate from Politehnica University of Bucharest, previously interning as a Software Development Intern (Data Engineering & GIS) at ICI Bucharest. I build across full-stack systems, distributed and networked systems, and mobile apps — with some detours into GPU programming and embedded hardware.
+
+Currently open to software engineering opportunities — happy to talk full-stack, mobile, or systems roles.
+
+![Open to Work](https://img.shields.io/badge/Open%20to-Work-2ea44f?style=flat-square)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudimohammadmehdi50@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/M-Mehdi-M)
 
 ---
 
@@ -32,7 +38,7 @@ Computer and Information Technology graduate from Politehnica University of Buch
 ### [SafeVault](https://github.com/M-Mehdi-M/SafeVault)
 *An Android vault app for encrypting sensitive data, with a document scanner and duress features.*
 
-- Encrypts every entry with AES-256-GCM via hardware-backed Android Keystore, with a unique IV per entry.
+- Encrypted every entry with AES-256-GCM via hardware-backed Android Keystore, with a unique IV per entry.
 - Built a panic-password flow that swaps the vault for a decoy calculator screen, with an optional auto-destruct wipe.
 
 `Kotlin` `Android` `Security`
@@ -40,7 +46,7 @@ Computer and Information Technology graduate from Politehnica University of Buch
 **Other Projects**
 - [SpendScan](https://github.com/M-Mehdi-M/SpendScan) — Android expense tracker using ML Kit OCR to scan receipts and auto-categorize spending. `Java` `Android`
 - Parallel News Aggregator — Multithreaded Java pipeline (parse → dedupe → stats → write), synchronized across phases with a CyclicBarrier. `Java` `Concurrency`
-- Sound Classification — Gabor and custom wavelet filter banks on the Mel scale for audio feature extraction, feeding KNN/nearest-centroid classifiers. `Python` `Signal Processing`
+- Sound Classification — Gabor and custom wavelet filter banks on the Mel scale for audio feature extraction, feeding KNN/nearest-centroid classifiers, reaching up to 68% accuracy across four classifier/filter combinations. `Python` `Signal Processing`
 - Mini-libc — A freestanding C standard library implementation on raw Linux syscalls (strings, memory, POSIX I/O). `C` `Linux`
 - [CUDA Proof-of-Work Miner](https://github.com/M-Mehdi-M/2-cuda_proof_of_work) — GPU-parallelized Merkle tree construction and nonce search for a simplified blockchain miner. `CUDA` `C++`
 - TCP/UDP Message Broker — Pub/sub broker with wildcard topic matching over TCP subscriptions and UDP publishing. `C` `Sockets`
@@ -50,13 +56,38 @@ Computer and Information Technology graduate from Politehnica University of Buch
 
 ## Technical Skills
 
-| Category | Details |
-| :--- | :--- |
-| **Languages** | Python · Java · C · C++ · Kotlin |
-| **Systems & Networking** | MPI · Sockets · Multithreading · CUDA |
-| **Mobile & Web** | Android SDK · Flask · REST APIs · HTML/CSS |
-| **Data & ML** | Pandas · GeoPandas · NumPy · SciPy · scikit-learn · Folium |
-| **Tools** | Docker · Git/GitHub · Linux |
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-555555?style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Systems & Networking**
+![MPI](https://img.shields.io/badge/-MPI-4B0082?style=flat-square)
+![Sockets](https://img.shields.io/badge/-Sockets-2E8B57?style=flat-square)
+![Multithreading](https://img.shields.io/badge/-Multithreading-555555?style=flat-square)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**Mobile & Web**
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6C37?style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data & ML**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/-GeoPandas-139C5A?style=flat-square)
+![Folium](https://img.shields.io/badge/-Folium-77B829?style=flat-square)
+
+**Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
