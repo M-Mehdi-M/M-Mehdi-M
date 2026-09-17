@@ -17,7 +17,7 @@ Computer and Information Technology graduate from Politehnica University of Buch
 
 `Java` `Android` `Flask` `SQLite`
 
-### CHORD Protocol in MPI
+### [CHORD Protocol in MPI](https://github.com/M-Mehdi-M/HW_2_APD)
 *A simplified CHORD distributed hash table where nodes locate keys in logarithmic hops instead of linear search, built on MPI message passing.*
 
 - Implemented finger-table construction and closest-preceding-finger routing so every hop provably makes progress toward the target key around the ring.
@@ -25,7 +25,7 @@ Computer and Information Technology graduate from Politehnica University of Buch
 
 `C` `MPI` `Distributed Systems`
 
-### IPv4 Router Implementation
+### [IPv4 Router Implementation](https://github.com/M-Mehdi-M/c-ipv4-router)
 *A software IPv4 router handling forwarding, ARP, and ICMP over raw sockets.*
 
 - Built longest-prefix-match routing on a bit-trie constructed once at startup, replacing linear route search with logarithmic-depth lookups.
@@ -43,12 +43,12 @@ Computer and Information Technology graduate from Politehnica University of Buch
 
 **Other Projects**
 - [SpendScan](https://github.com/M-Mehdi-M/SpendScan) — Android expense tracker using ML Kit OCR to scan receipts and auto-categorize spending. `Java` `Android`
-- Parallel News Aggregator — Multithreaded Java pipeline (parse → dedupe → stats → write), synchronized across phases with a CyclicBarrier. `Java` `Concurrency`
-- Sound Classification — Gabor and custom wavelet filter banks on the Mel scale for audio feature extraction, feeding KNN/nearest-centroid classifiers, reaching up to 68% accuracy across four classifier/filter combinations. `Python` `Signal Processing`
+- [Parallel News Aggregator](https://github.com/M-Mehdi-M/HW_1_APD) — Multithreaded Java pipeline (parse → dedupe → stats → write), synchronized across phases with a CyclicBarrier. `Java` `Concurrency`
+- [Sound Classification](https://github.com/M-Mehdi-M/HW_SP) — Gabor and custom wavelet filter banks on the Mel scale for audio feature extraction, feeding KNN/nearest-centroid classifiers, reaching up to 68% accuracy across four classifier/filter combinations. `Python` `Signal Processing`
 - [Mini-libc](https://github.com/M-Mehdi-M/MINI_LIBC) — A freestanding C standard library implementation on raw Linux syscalls (strings, memory, POSIX I/O). `C` `Linux`
 - [CUDA Proof-of-Work Miner](https://github.com/M-Mehdi-M/2-cuda_proof_of_work) — GPU-parallelized Merkle tree construction and nonce search for a simplified blockchain miner. `CUDA` `C++`
-- TCP/UDP Message Broker — Pub/sub broker with wildcard topic matching over TCP subscriptions and UDP publishing. `C` `Sockets`
-- EbookReader — ESP32-C6 e-paper reader board: full schematic, PCB routing, and BOM. `Embedded` `PCB Design`
+- [TCP/UDP Message Broker](https://github.com/M-Mehdi-M/tcp-udp-message-broker) — Pub/sub broker with wildcard topic matching over TCP subscriptions and UDP publishing. `C` `Sockets`
+- [EbookReader](https://github.com/M-Mehdi-M/EbookReader) — ESP32-C6 e-paper reader board: full schematic, PCB routing, and BOM. `Embedded` `PCB Design`
 
 ---
 
