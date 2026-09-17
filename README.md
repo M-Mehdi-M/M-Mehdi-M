@@ -45,7 +45,7 @@ Computer and Information Technology graduate from Politehnica University of Buch
 - [SpendScan](https://github.com/M-Mehdi-M/SpendScan) — Android expense tracker using ML Kit OCR to scan receipts and auto-categorize spending. `Java` `Android`
 - Parallel News Aggregator — Multithreaded Java pipeline (parse → dedupe → stats → write), synchronized across phases with a CyclicBarrier. `Java` `Concurrency`
 - Sound Classification — Gabor and custom wavelet filter banks on the Mel scale for audio feature extraction, feeding KNN/nearest-centroid classifiers, reaching up to 68% accuracy across four classifier/filter combinations. `Python` `Signal Processing`
-- Mini-libc — A freestanding C standard library implementation on raw Linux syscalls (strings, memory, POSIX I/O). `C` `Linux`
+- [Mini-libc](https://github.com/M-Mehdi-M/MINI_LIBC) — A freestanding C standard library implementation on raw Linux syscalls (strings, memory, POSIX I/O). `C` `Linux`
 - [CUDA Proof-of-Work Miner](https://github.com/M-Mehdi-M/2-cuda_proof_of_work) — GPU-parallelized Merkle tree construction and nonce search for a simplified blockchain miner. `CUDA` `C++`
 - TCP/UDP Message Broker — Pub/sub broker with wildcard topic matching over TCP subscriptions and UDP publishing. `C` `Sockets`
 - EbookReader — ESP32-C6 e-paper reader board: full schematic, PCB routing, and BOM. `Embedded` `PCB Design`
